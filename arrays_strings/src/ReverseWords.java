@@ -1,5 +1,3 @@
-package com.codingProblems;
-
 import java.util.Stack;
 
 /**
